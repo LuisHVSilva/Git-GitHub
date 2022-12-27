@@ -1,1 +1,2 @@
-Cor verde no arquivo -> Arquivo novo que ainda não foi commitado
+Cor verde no arquivo -> Arquivo novo que ainda não foi commitado.
+Cor amarela no arquivo -> Arquivo já criado, mas as edições ainda não foram atualizadas no repositório.

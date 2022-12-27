@@ -1,1 +1,3 @@
 git init -> começar um repositório
+git status -> ver o status de todos os arquivos
+git add <file> / git add --all -> adicionar um arquivo ao repositório ou adicionar todos de uma vez.

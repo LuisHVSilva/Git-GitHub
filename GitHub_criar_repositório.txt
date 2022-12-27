@@ -1,0 +1,7 @@
+echo "# Git-GitHub" >> README.md
+git init
+git add README.md
+git commit -m "Comentário"
+git branch -M main
+git remote add origin link_do_seu_repositório
+git push -u origin main

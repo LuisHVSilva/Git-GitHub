@@ -1,0 +1,11 @@
+-m -> comentário do comando que está a esquerda. Sempre acompanhado de aspas.
+    git commit -m "comentário"
+
+
+echo "# Git-GitHub" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/LuisHVSilva/Git-GitHub.git
+git push -u origin main
